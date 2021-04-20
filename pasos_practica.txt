@@ -1,0 +1,6 @@
+1) git checkout step-0
+1.5) Explicar un poco todo
+2) google-chrome index.html - OK
+3) git checkout step-1 o: npm i lodash => import { camelCase } from "lodash" => usar camelCase
+4) google-chrome index.html - ERROR
+5) git checkout step-2 o: npm i --save-dev webpack webpack-cli => agregar script "build": "webpack" => apuntar index.html a ../dist/main.js => google-chrome index.html - OK
