@@ -1,1 +1,3 @@
-console.log("Hola JS!")
+import { camelCase } from "lodash";
+
+console.log(camelCase("Hola JS!"))
