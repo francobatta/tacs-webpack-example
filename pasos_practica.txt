@@ -5,3 +5,4 @@
 4) google-chrome index.html - ERROR
 5) git checkout step-2 o: npm i --save-dev webpack webpack-cli => agregar script "build": "webpack" => apuntar index.html a ../dist/main.js => google-chrome index.html - OK
 6) git checkout step-3 o: crear en la raiz webpack.config.js => crear style.scss junto a index.js => importar style.scss dentro de index.js - ERROR
+7) git checkout step-4 o: npm i --save-dev css-loader style-loader sass-loader => npm install --save-dev sass => module in webpack config
